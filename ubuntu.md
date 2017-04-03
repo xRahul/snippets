@@ -1,4 +1,4 @@
-#### [Remove Old Kernels In Ubuntu With One Command](http://tuxtweaks.com/2010/10/remove-old-kernels-in-ubuntu-with-one-command/)
+#### [Remove Old Kernels In Ubuntu With One Command when your `/boot` is full](http://tuxtweaks.com/2010/10/remove-old-kernels-in-ubuntu-with-one-command/)
 
 * dry-run
 ```bash
